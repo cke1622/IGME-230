@@ -48,8 +48,8 @@ pixel
 - the player will have to learn how to dodge
 
 ## Screenshots
-https://people.rit.edu/cke1622/230/Game.JPG
-https://people.rit.edu/cke1622/230/PowerUps.JPG
+-https://people.rit.edu/cke1622/230/Game.JPG
+-https://people.rit.edu/cke1622/230/PowerUps.JPG
 
 ## Other
 TBD
