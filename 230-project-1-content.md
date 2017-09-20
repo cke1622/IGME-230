@@ -47,14 +47,15 @@ pixel
 - the player will need to learn the power ups and the optimal usage of power ups
 - the player will have to learn how to dodge
 
-### Screenshots
+## Screenshots
 -https://people.rit.edu/cke1622/230/Game.JPG
+
 -https://people.rit.edu/cke1622/230/PowerUps.JPG
 
 ## Other
 TBD
 
-### About the developer
+## About the developer
 -Name: Christopher Ellis
 -Major: Video Game Development and Design
 -Year: 2017
